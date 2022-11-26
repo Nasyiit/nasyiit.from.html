@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <img src="kopsurat.png" width="100%" alt="kop surat ikmi" />
@@ -8,7 +8,7 @@
     
     <h1 align="center" class="page-title">FORMULIR PENDAFTARAN MAHASISWA BARU</h1>
       <table border="0">
-    </font>
+    
     <div class="pembungkus">
       <h2 class="judulfrom">From Pendaftaran</h2>
     </div>
@@ -144,8 +144,6 @@
       <td><textarea cols="22" rows="3"></textarea></td>
     </tr>
   </table>
-    </div>
+    
     <input type="submit" value="simpan">
-    <input type="reset" value="reset">   
-  </body>
-</html>
+    <input type="reset" value="reset">
